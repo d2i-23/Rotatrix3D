@@ -1,9 +1,9 @@
 
 <img src="https://github.com/user-attachments/assets/a2641a37-1419-4001-bfa2-f17e35fddd34" height="100" align="right" />
 
-# MatriDraw3D
+# Spacey3D
 
-This repository contains the code for MatriDraw3D using JavaFX. Program is still in early development. I have plans to make more changes in the future, so thank you for testing it out!! 
+This repository contains the code for Spacey3D using JavaFX. Program is still in early development. I have plans to make more changes in the future, so thank you for testing it out!! 
 
 ## Purpose 
 
